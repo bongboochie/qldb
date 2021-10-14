@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-8 text-left">
                 <p>
-                © 2021 TRƯỜNG ĐẠI HỌC THỦY LỢI
+                © 2021 TRƯỜNG ĐẠI HỌC THỦY LỢI TTP
 
             </p>
             </div>
